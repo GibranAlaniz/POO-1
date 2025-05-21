@@ -9,3 +9,5 @@ class FiguraCuadrada:
 
 FiguraCuadrada.calcularPerimetro(4)
 FiguraCuadrada.calcularArea(4)
+
+#
