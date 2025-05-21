@@ -6,5 +6,4 @@ class Persona:
         return self.__nombre  # Acceso controlado
 
 persona = Persona("Ana")
-print(persona.obtenerNombre())  # ✅ Accede correctamente
-# print(persona.__nombre)  # ❌ Error: el atributo es privado
+print(persona.obtenerNombre())  

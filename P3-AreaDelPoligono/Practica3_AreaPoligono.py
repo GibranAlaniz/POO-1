@@ -27,6 +27,6 @@ class Figuras:
         a = Figuras.area(nlados, lado)
         return f"El perímetro de la figura es {p} y el área es {a}"
 
-print(Figuras.calcular(3, 5))
+print(Figuras.calcular(4, 4))
 
 

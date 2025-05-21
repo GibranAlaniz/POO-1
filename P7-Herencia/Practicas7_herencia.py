@@ -7,4 +7,4 @@ class Gato(Animal):
         return "Miau"
 
 gato = Gato()
-print(gato.sonido())  # Miau
+print(gato.sonido()) 
