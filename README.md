@@ -1,6 +1,7 @@
 # POO-1
 # Índice de Prácticas del Curso
 
+GIBRAN EDUARDO ALANIZ ROBLES
 A continuación se listan las prácticas realizadas durante el curso:
 
 1. [Práctica 1: Figuras sin Constructor](P1-FigurasSinConstructor/)
